@@ -1,7 +1,14 @@
 ## Hi! I'm Thaisy!
 
-- 🌱 I’m currently learning front-end
-- 😄 Pronouns: she/her
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: create a new project and find my firts job.
+
+##
 
 <div align="center">
   <a href="https://github.com/Thaisy-Gomes">
