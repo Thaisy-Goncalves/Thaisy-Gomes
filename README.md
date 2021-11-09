@@ -1,13 +1,5 @@
 ## Hi! I'm Thaisy!
 
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: create a new project and find my firts job.
-
 ##
 
 <div align="center">
