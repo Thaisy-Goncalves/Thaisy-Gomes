@@ -1,9 +1,5 @@
 ## 💫 Hi! I'm Thaisy 💫
-<style>
- h1 {
-  text-align: center;
-  }
-</style>
+
 ##
 
 <div align="center">
