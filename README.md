@@ -4,7 +4,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/thaisy)
 
   </td>
   <td width="50%">
@@ -33,7 +33,5 @@
   
   ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
   
-  [![Spotify](https://thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
-
   
 </div>
