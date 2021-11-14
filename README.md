@@ -1,13 +1,9 @@
 ## Hi! I'm Thaisy 💫
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
+
 &nbsp; <br> [![Spotify](https://novatorem-thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
 
-  </td>
-  <td width="50%">
+
 ##
 
 
@@ -30,7 +26,7 @@
   <a href="https://www.linkedin.com/in/thaisy-goncalves-08859b224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-&nbsp; <br>   ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
 
   
   
