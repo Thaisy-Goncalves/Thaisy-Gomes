@@ -2,6 +2,10 @@
 
 ##
 
+[![Spotify](https://Thaisy-Gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
+
+##
+
 <div align="center">
   <a href="https://github.com/Thaisy-Gomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaisy-Gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
