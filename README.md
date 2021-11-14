@@ -21,6 +21,9 @@
   
   ##
   
+  <img src="https://i.pinimg.com/originals/34/34/cf/3434cffeba5fad0d46b84203e55e557a.gif" width="400" height="400" />
+  
+  
 <div> 
   <a href="https://instagram.com/thay_juliany" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaisy-goncalves-08859b224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
