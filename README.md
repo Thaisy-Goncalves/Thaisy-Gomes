@@ -29,14 +29,8 @@
   <a href="https://instagram.com/thay_juliany" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaisy-goncalves-08859b224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br>   ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
 
-  </td>
-  <td width="50%">
+&nbsp; <br>   ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
 
   
   
