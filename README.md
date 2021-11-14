@@ -7,7 +7,6 @@
 &nbsp; <br> [![Spotify](https://novatorem-thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
 
   </td>
-  <td width="50%">
 
 ##
 
