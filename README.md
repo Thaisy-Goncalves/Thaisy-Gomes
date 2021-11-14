@@ -2,10 +2,6 @@
 
 ##
 
-[![Spotify](https://thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
-
-
-##
 
 <div align="center">
   <a href="https://github.com/Thaisy-Gomes">
@@ -27,5 +23,8 @@
   
   
   ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
+  
+  [![Spotify](https://thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
+
   
 </div>
