@@ -3,7 +3,7 @@
 
 &nbsp; <br> [![Spotify](https://novatorem-thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
 
-
+<img src="https://i.pinimg.com/originals/34/34/cf/3434cffeba5fad0d46b84203e55e557a.gif" width="200" height="200" align="right"/>
 ##
 
 
@@ -20,8 +20,6 @@
 </div>
   
   ##
-  
-  <img src="https://i.pinimg.com/originals/34/34/cf/3434cffeba5fad0d46b84203e55e557a.gif" width="400" height="400" />
   
   
 <div> 
