@@ -2,7 +2,8 @@
 
 ##
 
-[![Spotify](https://https://novatorem-thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
+[![Spotify](https://thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
+
 
 ##
 
