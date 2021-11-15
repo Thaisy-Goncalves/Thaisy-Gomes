@@ -1,4 +1,4 @@
-## Hi! I'm Thaisy.
+<h1 align="center">Hi! I'm Thaisy.</h1>
 
 > Tu te tornas eternamente responsável por aquilo que cativas. - O Pequeno Príncipe
 
