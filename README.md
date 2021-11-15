@@ -1,4 +1,8 @@
-## Hi! I'm Thaisy 💫
+<div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
+ 
+</div>
 
 <!----- "PLAYER" ----->
 
@@ -30,17 +34,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisy-Gomes&layout=compact&langs_count=7&theme=tokyonight"/>
     
 </div>
- 
-
-
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka--> 
-  
-
-
 
 <!----- "ICONS" ----->
 
