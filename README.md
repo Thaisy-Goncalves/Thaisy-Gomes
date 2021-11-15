@@ -1,8 +1,10 @@
-<div align="center">
+## Hi! I'm Thaisy.
+
+<!--<div align="center">
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
  
-</div>
+</div>-->
 
 <!----- "PLAYER" ----->
 
