@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Thaisy.</h1>
 <br>
 
-> Tu te tornas eternamente responsável por aquilo que cativas. - O Pequeno Príncipe
+> Só se vê bem com o coração, o essencial é invisível aos olhos. - O Pequeno Príncipe
 
 #
 <!--<div align="center">
