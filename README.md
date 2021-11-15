@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Thaisy.</h1>
+<h1>Hi! I'm Thaisy.</h1>
 <br>
 
 > "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe
