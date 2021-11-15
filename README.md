@@ -42,7 +42,7 @@
  
 
 <!----- "ABOUT ME" ----->
-```js
+<!--```js
 const WhoAmI = {
  pronouns: "ela" | "dela",
  user: "Thaisy Gomes",
@@ -54,7 +54,7 @@ const WhoAmI = {
    "Desenhar",
    "Aprender algo novo :)"]
 }
-```
+```-->
 <!----- "SOCIAL" ----->
  
 <!--<div> 
