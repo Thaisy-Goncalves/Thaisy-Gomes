@@ -1,5 +1,8 @@
 ## Hi! I'm Thaisy.
 
+> Tu te tornas eternamente responsável por aquilo que cativas. - O Pequeno Príncipe
+
+#
 <!--<div align="center">
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
@@ -73,6 +76,6 @@ const WhoAmI = {
 
 </div>
 
-## About me.
+### About me.
 
 
