@@ -9,7 +9,7 @@
   </td>
   <td width="50%">
     
-<img src="https://c.tenor.com/6MsukwHKJ58AAAAC/ara-anime.gif" width="200" height="200" align="right"/>
+<img src="https://c.tenor.com/jvgdPsTns_gAAAAC/bokuno-hero-academia-izuku.gif" width="200" height="200" align="right"/>
 
   </td>
   </table>
