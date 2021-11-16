@@ -38,6 +38,11 @@
 
 <!----- "ABOUT ME" ----->
     
+
+
+<img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left"/>  
+  
+
 ```js
 const WhoAmI = {
  pronouns: "ela" | "dela",
@@ -51,11 +56,6 @@ const WhoAmI = {
    "Aprender algo novo :)"]
 }
 ```    
-
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" height="" width=""/>  
-  
-
-
 
 
 
