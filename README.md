@@ -38,7 +38,9 @@
 
 <!----- "ABOUT ME" ----->
     
-
+<table align="center"> 
+  <tr>
+  <td>
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" style="padding: 150em;"/>  
   
@@ -56,7 +58,8 @@ const WhoAmI = {
    "Aprender algo novo :)"]
 }
 ```    
-
+  </td>
+  </table>
 
 
 
