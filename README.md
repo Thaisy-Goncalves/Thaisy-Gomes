@@ -42,7 +42,7 @@
   <tr>
   <td>
 
-<img src="https://c.tenor.com/4mLL0_6O5hgAAAAC/toilet-bound-hanako-kun-spirits.gif" align="left" style="padding: 150em;"/>  
+<img src="https://im2.ezgif.com/tmp/ezgif-2-b673c6166ae4.gif" align="left" style="padding: 150em;"/>  
   
   <td>
 
