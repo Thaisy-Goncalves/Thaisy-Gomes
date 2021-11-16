@@ -61,23 +61,3 @@
 
 
     
-<!-- About me.-->
-
-<img align="left" src="https://c.tenor.com/c5EvySkw_BYAAAAd/nezuko-confused-kimetsu-no-yaiba.gif" width="410em" height="388em" align="left"/>
-
-
-
-<!----- "ABOUT ME" ----->
-```js
-const WhoAmI = {
- pronouns: "ela" | "dela",
- user: "Thaisy Gomes",
- role: "Ainda não sei...",
- hobbies: [
-   "Ouvir Música",
-   "Olhar para o céu estrelado",
-   "Estudar",
-   "Desenhar",
-   "Aprender algo novo :)"]
-}
-```
