@@ -40,7 +40,7 @@
     
 
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" style="padding: 100%"/>  
+<img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" style="padding: 150em;"/>  
   
 
 ```js
