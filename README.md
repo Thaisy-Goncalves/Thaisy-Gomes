@@ -7,7 +7,7 @@
 
 <!----- "PLAYER" ----->
 
-<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border: none;"> 
+<table width="100%" align="center"> 
   <tr>
   <td width="70%">
 
@@ -36,18 +36,60 @@
     
 </div>
 
-
-
-
+<!----- "ABOUT ME" ----->
+<table align="center"> 
+  <tr>
+  <td>
+    
+<img src="https://im2.ezgif.com/tmp/ezgif-2-f15d234d2893.gif" align="left" height="" width=""/>  
+  
+```js
+const WhoAmI = {
+ pronouns: "ela" | "dela",
+ user: "Thaisy Gomes",
+ role: "Ainda não sei...",
+ hobbies: [
+   "Ouvir Música",
+   "Olhar para o céu estrelado",
+   "Estudar",
+   "Desenhar",
+   "Aprender algo novo :)"]
+}
+```  
+ </td>
 
 
     
     
 
 
-    
+
+
+
+
+<!-- About me
+
+```js
+const WhoAmI = {
+ pronouns: "ela" | "dela",
+ user: "Thaisy Gomes",
+ role: "Ainda não sei...",
+ hobbies: [
+   "Ouvir Música",
+   "Olhar para o céu estrelado",
+   "Estudar",
+   "Desenhar",
+   "Aprender algo novo :)"]
+}
+```  
+#.-->
+
     
 <!--<div align="center">
+
+
+<img src="https://c.tenor.com/7-TfUrtRZuIAAAAM/hanako-sigh.gif" align="left" />  
+
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
  
