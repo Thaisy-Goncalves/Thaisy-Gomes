@@ -37,9 +37,6 @@
 </div>
 
 <!----- "ABOUT ME" ----->
-<table align="center"> 
-  <tr>
-  <td>
     
 <img src="https://im2.ezgif.com/tmp/ezgif-2-f15d234d2893.gif" align="left" height="" width=""/>  
   
@@ -56,7 +53,7 @@ const WhoAmI = {
    "Aprender algo novo :)"]
 }
 ```  
- </td>
+
 
 
     
