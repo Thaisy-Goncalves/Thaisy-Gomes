@@ -40,23 +40,6 @@
     
 <img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" height="" width=""/>  
   
-```js
-const WhoAmI = {
- pronouns: "ela" | "dela",
- user: "Thaisy Gomes",
- role: "Ainda não sei...",
- hobbies: [
-   "Ouvir Música",
-   "Olhar para o céu estrelado",
-   "Estudar",
-   "Desenhar",
-   "Aprender algo novo :)"]
-}
-```  
-
-
-
-    
     
 
 
