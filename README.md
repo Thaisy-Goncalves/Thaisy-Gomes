@@ -1,18 +1,13 @@
-<h1>Hi! I'm Thaisy.</h1>
+<h1> Hi! I'm Thaisy. </h1>
 <br>
 
 > "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe
 
 #
-<!--<div align="center">
-    
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
- 
-</div>-->
 
 <!----- "PLAYER" ----->
 
-<table width="100%" align="center"> 
+<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border: none;"> 
   <tr>
   <td width="70%">
 
@@ -41,6 +36,24 @@
     
 </div>
 
+
+
+
+
+
+    
+    
+
+
+    
+    
+<!--<div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238373F7&lines=Hi!+I'm+Thaisy.)](https://git.io/typing-svg)
+ 
+</div>-->
+
+    
 <!----- "ICONS" ----->
 
 <!--<div style="display: inline_block" align="center"><br>
@@ -58,6 +71,8 @@
 ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
 
 </div>-->
+
+
 
 
     
