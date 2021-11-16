@@ -29,7 +29,7 @@
     
 <table align="center"> 
   <tr>
-  <td width="50%">
+  <td width="40%">
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-4a6c75179ed7.gif" align="left"/>  
   
