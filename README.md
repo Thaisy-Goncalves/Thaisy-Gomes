@@ -38,7 +38,7 @@
 
 <!----- "ABOUT ME" ----->
     
-<img src="https://im2.ezgif.com/tmp/ezgif-2-f15d234d2893.gif" align="left" height="" width=""/>  
+<img src="https://im2.ezgif.com/tmp/ezgif-2-7e1812de59ab.gif" align="left" height="" width=""/>  
   
 ```js
 const WhoAmI = {
