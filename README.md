@@ -63,7 +63,7 @@
     
 <!-- About me.-->
 
-<img align="left" src="https://c.tenor.com/wcWbnYtoIOcAAAAC/anime-zenitsu-agatsuma.gif" alt="aesthetic pixel art"/>
+
 
 
 
