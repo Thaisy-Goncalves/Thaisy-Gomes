@@ -29,11 +29,11 @@
     
 <table align="center"> 
   <tr>
-  <td width="40%">
+  <td width="50%">
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-4a6c75179ed7.gif" align="left"/>  
   
-  <td>
+  <td height="50%">
 
 ```js
 const WhoAmI = {
