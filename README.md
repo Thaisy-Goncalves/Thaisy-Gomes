@@ -40,7 +40,7 @@
     
 <table align="center"> 
   <tr>
-  <td>
+  <td width="50%">
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-b673c6166ae4.gif" align="left" style="padding: 150em;"/>  
   
