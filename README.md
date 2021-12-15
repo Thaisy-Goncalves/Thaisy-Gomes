@@ -31,7 +31,7 @@
   <tr>
   <td width="50%">
 
-<img src="../gifhanako.gif" align="left"/>  
+<img src="https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/main/gifhanako.gif" align="left"/>  
   
   <td height="50%">
 
