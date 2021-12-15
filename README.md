@@ -31,7 +31,7 @@
   <tr>
   <td width="50%">
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-4a6c75179ed7.gif" align="left"/>  
+<img src="../gifhanako.gif" align="left"/>  
   
   <td height="50%">
 
