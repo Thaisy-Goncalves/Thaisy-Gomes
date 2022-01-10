@@ -64,6 +64,8 @@ const WhoAmI = {
 </div>
 
 
+[![HitCount](http://hits.dwyl.com/Thaisy-Gomes/Thaisy-Gomes.svg?style=flat-square)](http://hits.dwyl.com/Thaisy-Gomes/Thaisy-Gomes)
+
 
 
 
