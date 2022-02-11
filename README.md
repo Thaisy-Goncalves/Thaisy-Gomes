@@ -116,6 +116,11 @@ const WhoAmI = {
 ![Snake animation](https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/output/github-contribution-grid-snake.svg)
 
 </div>-->
+  
+  
+  
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N377096)
 
 
 
