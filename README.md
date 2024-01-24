@@ -13,7 +13,7 @@
 
 <!----- "STATS" ----->
 
-<div align="center">
+<div align="container-fluid">
   
   <a href="https://github.com/Thaisy-Gomes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thaisy-Gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
