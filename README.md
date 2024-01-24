@@ -4,53 +4,12 @@
 > "Só se vê bem com o coração, o essencial é invisível aos olhos." - O Pequeno Príncipe
 
 #
-
-<!----- "PLAYER" ----->
-
-<table width="100%" align="center"> 
-  <tr>
-  <td width="70%">
-
-&nbsp; <br> [![Spotify](https://novatorem-thaisy-gomes.vercel.app/api/spotify)](https://open.spotify.com/user/Thaisy)
-
-  </td>
-    
 <!----- "GIF" ----->
     
   <td width="50%">
     
     
 <img src="https://c.tenor.com/jvgdPsTns_gAAAAC/bokuno-hero-academia-izuku.gif" width="200" height="200" align="right"/>
-
-  </td>
-  </table>
-
-<!----- "ABOUT ME" ----->
-    
-<table align="center"> 
-  <tr>
-  <td width="50%">
-
-<img src="https://github.com/Thaisy-Gomes/Thaisy-Gomes/blob/main/gifhanako.gif" align="left"/>  
-  
-  <td height="50%">
-
-```js
-const WhoAmI = {
- pronouns: "ela" | "dela",
- user: "Thaisy Gomes",
- role: "Ainda não sei...",
- hobbies: [
-   "Ouvir Música",
-   "Olhar para o céu estrelado",
-   "Estudar",
-   "Desenhar",
-   "Aprender algo novo :)"]
-}
-```    
-  </td>
-  </table>
-
 
 <!----- "STATS" ----->
 
